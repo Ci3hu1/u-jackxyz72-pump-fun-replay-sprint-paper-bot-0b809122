@@ -26,7 +26,19 @@ Stress (rebuilt copies of the dev window): _see below once the run finishes._
 
 ## Live score
 
-_To be filled after submit (Joni's 'Setuju' required first)._
+- SUBMITTED 24 Nov 2026 ~12:49 WIB on Joni's "Semua": submission
+  01a20c1a-0262-7632-aefb-5eb8204caf5b, stage submitted (grading queue behind
+  at submit; all server checks pass). Entry commit
+  64c38690bdd46281bfb4d4a56e76a91c88dadfab. Bundle sha256
+  845e54e2335a4d123f0312c6c29154c023954bce56fb03df1449577f65ed2cda
+  (388,058 B; fresh level-40 kit; builder session f4d03750 + submit session
+  7e8a7a3e, 1 usage row). Kit check ok=true, failed=[] (thinking_revised
+  PASS via STRATEGY.md from 3 messages; reproduces 417/716 = 58.2%).
+  Repo created 24 Nov 2026 05:47:58Z (after opening 04:49:16Z) — no beacon
+  root; repo_created_after_open satisfied by creation time. Tests 4/4 pass
+  (node --test tests/determinism.test.ts). Claim code ONLY in
+  ~/.config/makefun/u-jackxyz72-pump-fun-replay-sprint-paper-bot-0b809122-submission.json (0600).
+  Entries close 27 Nov 11:50 WIB; results 12 Dec 2026.
 
 ## Dev window
 
